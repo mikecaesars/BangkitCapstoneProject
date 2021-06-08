@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SUMMARIZ-it</string>
+    <string name="tile_activity_summary">Summary</string>
+    <string name="edit_text_hint">Copy Paste a documents text \n or add a text file from the bottom right button</string>
+    <string name="open_menu_option">Open Summary</string>
+    <string name="clear_text_option">Clear Text</string>
+    <string name="summary_name">Summary Name</string>
+    <string name="test">Test</string>
+    <string name="summarize">Summarize</string>
+    <string name="summary">Summary</string>
+    <string name="save">Save</string>
+    <string name="logo">Logo</string>
+    <string name="title_activity_home">HOME</string>
 </resources>
